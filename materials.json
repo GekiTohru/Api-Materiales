@@ -1,0 +1,9 @@
+[
+    {
+        "id_material": 1,
+        "material": "hierro",
+        "meters": 4.5,
+        "unit": 2,
+        "descripcion": "duro"
+    }
+]
